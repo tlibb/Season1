@@ -1,0 +1,5 @@
+﻿
+<configuration>
+	<GreetingWriterClassName>jdoe@company.dom</GreetingWriterClassName>
+	<GreetingWriterOutputFilePath>jdoe@personal.dom</GreetingWriterOutputFilePath>
+</configuration>
